@@ -1,0 +1,27 @@
+.box {
+	width: 300px;
+	border: 3px solid #1778ae;
+	padding: 10px;
+	margin: 20px auto;
+	
+}
+
+h2 {
+	margin-left: 620px;
+}
+
+b {
+	float: right;
+	padding-left: 5px;
+}
+
+p,h2 {
+	display: inline;
+}
+
+.item-delete,
+.item-edit,
+.item-edit,
+.item-add {
+	cursor: pointer;
+}
